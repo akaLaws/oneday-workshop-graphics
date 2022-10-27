@@ -8,7 +8,7 @@ Skulle i finde én bestemt tutorial der var fantastisk eller ekstra sjov så giv
 
 ### Links til online projekter og tutorials
 [101 beginners projects for illustrator](https://design.tutsplus.com/tutorials/101-adobe-illustrator-tutorials--cms-29782)
-smirk
+
 ### Opgavve beskrivelse - Kopiér en picasso
 1. Find et picasso billede på google og gem billedet. 
 2. Åbn Illustrator
