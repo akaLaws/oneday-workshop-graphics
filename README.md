@@ -2,6 +2,8 @@
 Her er en samling af opgaver til brobyg for mediegrafikeren.  
 Da nogle af jer allerede har haft illustrator og photoshop i skolen har jeg tilladt mig også at samle nogle ekstra opgaver osm i selv kan vælge fra skulle resten blive for kedelige.  
 
+[Læs mere om uddannelsen til mediegrafiker her](https://www.rts.dk/eud-erhvervsuddannelser/erhvervsuddannelser-eud/136-mediegrafiker)
+
 Skulle i finde én bestemt tutorial der var fantastisk eller ekstra sjov så giv mig lige en heads up så jeg kan gemme den specifikt til fremtidige ambitiøse elever. :smile: 
 
 ### Links til online projekter og tutorials
