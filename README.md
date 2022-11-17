@@ -20,3 +20,9 @@ Man behøver ikke illustrator for at lave grafik til websider. I CSS kan man lav
 Givet - det er på ingen måde beregnet til at erstatte de designerede programmer til formålet og i praksis vil CSS genereret grafik oftest være simple elementer og mønstre.  
 
 Derved sagt - her er et eksempel på hvordan man kan lave [stopskiltet fra den første illustrator opgave i CSS](https://codepen.io/akalaws/pen/vYrEzRB). :smirk:
+
+Her har i desuden nogle andre links på eksempler hvor CSS er brugt til at lave illustrationer. 
+* [Pixelart samlinger](https://codepen.io/search/collections?q=pixelart)
+* [Vektor grafik](https://codepen.io/search/pens?q=vector%20graphic)
+* [Animere vektor bjerglandskab i ren kode](https://codepen.io/search/pens?q=vector%20graphic)
+* [Ren CSS 3D graphic og animationer](https://codepen.io/search/pens?q=pure+css+3d+&cursor=ZD0xJm89MCZwPTE=)
